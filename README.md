@@ -1,0 +1,1 @@
+## This a demo application for practicing Mongodb commands
